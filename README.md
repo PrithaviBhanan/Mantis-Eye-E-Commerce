@@ -18,6 +18,19 @@ A Ecommerce Website made with React.js Framework.
 
 ## Run Locally
 
+Clone the project
+
+  git clone [https://github.com/ssahibsingh/React_E-Commerce](https://github.com/PrithaviBhanan/Mantis-Eye-E-Commerce)
+Go to the project directory
+
+  cd React_E-Commerce
+Install dependencies
+
+  npm install
+Start the server
+
+  npm start
+
 Install dependencies
 
   npm install
