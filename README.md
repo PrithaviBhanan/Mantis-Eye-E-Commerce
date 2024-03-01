@@ -24,18 +24,12 @@ Clone the project
 Go to the project directory
 
   cd React_E-Commerce
-Install dependencies
 
-  npm install
-Start the server
-
-  npm start
-
-Install dependencies
+Install dependencies-
 
   npm install
 
-Start the server
+Start the server-
 
   npm start
 
