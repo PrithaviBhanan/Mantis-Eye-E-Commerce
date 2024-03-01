@@ -23,7 +23,7 @@ Clone the project
   git clone https://github.com/PrithaviBhanan/Mantis-Eye-E-Commerce
 Go to the project directory
 
-  cd React_E-Commerce
+  cd Mantis-Eye-E-Commerce-main
 
 Install dependencies-
 
